@@ -1,0 +1,10 @@
+/home/tsoporan/projects/book-tracker/src/App/bin/Debug/netcoreapp2.2/App.deps.json
+/home/tsoporan/projects/book-tracker/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/home/tsoporan/projects/book-tracker/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/home/tsoporan/projects/book-tracker/src/App/bin/Debug/netcoreapp2.2/App.dll
+/home/tsoporan/projects/book-tracker/src/App/bin/Debug/netcoreapp2.2/App.pdb
+/home/tsoporan/projects/book-tracker/src/App/obj/Debug/netcoreapp2.2/App.fsprojAssemblyReference.cache
+/home/tsoporan/projects/book-tracker/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/home/tsoporan/projects/book-tracker/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.fs
+/home/tsoporan/projects/book-tracker/src/App/obj/Debug/netcoreapp2.2/App.dll
+/home/tsoporan/projects/book-tracker/src/App/obj/Debug/netcoreapp2.2/App.pdb
